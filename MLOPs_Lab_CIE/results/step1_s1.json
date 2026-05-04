@@ -1,0 +1,18 @@
+{
+  "experiment_name": "testgenai-coverage-pct",
+  "models": [
+    {
+      "name": "SVR",
+      "mae": 13.2851,
+      "rmse": 14.4567
+    },
+    {
+      "name": "GradientBoosting",
+      "mae": 11.518,
+      "rmse": 13.0964
+    }
+  ],
+  "best_model": "GradientBoosting",
+  "best_metric_name": "mae",
+  "best_metric_value": 11.518
+}

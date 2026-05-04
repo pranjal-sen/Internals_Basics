@@ -1,0 +1,7 @@
+{
+  "registered_model_name": "testgenai-coverage-pct-predictor",
+  "alias_name": "live",
+  "champion_version": 4,
+  "challenger_version": 5,
+  "action": "kept"
+}

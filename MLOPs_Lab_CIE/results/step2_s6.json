@@ -1,0 +1,7 @@
+{
+  "registered_model_name": "testgenai-coverage-pct-predictor",
+  "version": 4,
+  "run_id": "e36b08b9df3744169d0328e3b1b4e279",
+  "source_metric": "mae",
+  "source_metric_value": 11.518
+}
